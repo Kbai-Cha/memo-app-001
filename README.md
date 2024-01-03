@@ -1,2 +1,1 @@
-# memo-app-001
-FastapiとFlutterでメモ帳アプリを作成
+# FastAPI と FlutterでTodoアプリを作る
